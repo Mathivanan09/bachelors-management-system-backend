@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Bachelors Room Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initiatted for room management including Financial, alerting subscription expiry and so on.
 
 ## Available Scripts
 
